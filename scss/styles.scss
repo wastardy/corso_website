@@ -31,3 +31,27 @@
         background: var(--bs-dark);
     }
 }
+
+@media(max-width: 1100px) {
+    .header {
+        min-height: 800px;
+    }
+}
+
+@media(max-width: 1099px) {
+    .header {
+        min-height: 900px;
+    }
+}
+
+@media(max-width: 999px) {
+    .header {
+        min-height: 950px;
+    }
+}
+
+@media(max-width: 660px) {
+    .header {
+        min-height: 850px;
+    }
+}
