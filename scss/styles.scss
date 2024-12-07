@@ -1,5 +1,5 @@
 .header {
-    min-height: 1000px;
+    min-height: 1130px;
     background: 
         linear-gradient(
             to bottom right, 
@@ -10,6 +10,11 @@
             center center no-repeat;
     background-size: cover;
 }   
+
+.header .slide {
+    width: 90%;
+    margin: 0 auto;
+}
 
 @media(max-width: 992px) {
     .navbar {
