@@ -1,3 +1,12 @@
+.navbar {
+    transition: all 0.3s ease-in-out;
+}
+
+.bg-opacity {
+    opacity: 0.9;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.7);
+}
+
 .header {
     min-height: 1130px;
     background: 
@@ -18,6 +27,7 @@
 
 @media(max-width: 992px) {
     .navbar {
+        opacity: 0.9;
         background: var(--bs-dark);
     }
 }
