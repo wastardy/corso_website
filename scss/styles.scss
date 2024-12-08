@@ -25,6 +25,11 @@
     margin: 0 auto;
 }
 
+.header .text-container p {
+    width: 100% !important;
+    font-size: 18px;
+}
+
 .invitation-bg {
     background: 
         linear-gradient(
@@ -35,6 +40,14 @@
         url('../images/invitation-background.jpg') 
             center center no-repeat;
     background-size: cover;
+}
+
+.quick-link {
+    text-decoration: none;
+}
+
+.quick-link:hover {
+    text-decoration: underline;
 }
 
 @media(max-width: 992px) {
