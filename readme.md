@@ -2,7 +2,7 @@
 
 Bootstrap website for training courses, workshops, seminars, etc. It has a mixed design with both light and dark colors and a modern look.
 
-# Visit Corso Website [Here 📌](https://corsowebsite-mu.vercel.app/)
+# Visit Website [Here 📌](https://corsowebsite-mu.vercel.app/)
 
 <img src="./images/screen.png" />
 
